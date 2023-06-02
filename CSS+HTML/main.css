@@ -1,0 +1,78 @@
+.main-text{
+    color: magenta;
+}
+#text-in-p{
+    color: blue;
+}
+option{
+    color: blue;
+}
+table tr th, table td{
+    color: brown; 
+
+}
+table td{
+    color: blue;
+}
+.rdr-2{
+    color: forestgreen;
+}
+.main-link{
+    color: brown;
+    text-decoration: inherit; 
+}
+.main-link:hover{
+    color: rgb(245, 245, 245);
+    text-decoration: line-through;
+    cursor: not-allowed
+}
+h1:active{
+    text-decoration: underline
+}
+#text{
+    cursor: pointer;
+    text-decoration: overline;
+    color: brown;
+}
+.ggg{
+    text-decoration: underline;
+    color: brown;
+}
+#sale:hover{
+    cursor: progress;
+    text-decoration: underline;
+    color: rgb(240, 234, 234);
+}
+
+
+#ak{
+    color: rgb(65, 65, 221);
+}
+h2{
+    color: rgb(8, 8, 8);
+}
+p:hover{
+    text-decoration: underline;
+    color: rgb(2, 1, 1);
+   
+}
+
+#first{
+    color: rgb(219, 20, 20);
+    background: url(https://kartinkin.net/uploads/posts/2022-03/1647025520_57-kartinkin-net-p-kartinki-dlya-biblioteki-64.jpg) no-repeat center top;
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgb(202, 202, 202);
+    
+}
+
+body{
+    background-color: burlywood;
+}
+
+#second{
+    height: 80px;
+   
+}
+
